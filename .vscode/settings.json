@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "time.h": "c",
+        "randomsiteselection.h": "c",
+        "ctype.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "cmake.configureOnOpen": false,
+    "cmake.buildTask": true
+}
